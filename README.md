@@ -55,3 +55,5 @@
 2021.03.13 : programmers_2 피보나치 수
 
 2021.03.15 : leetcode 326. Power of Three
+
+2021.03.16 : leetcode 551. Student Attendance Record I
