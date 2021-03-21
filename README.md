@@ -65,3 +65,5 @@
 2021.03.19 : programmers_2 JadenCase 문자열 만들기
 
 2021.03.20 : programmers_2 최댓값과 최솟값
+
+2021.03.21 : programmers_2 올바른 괄호
