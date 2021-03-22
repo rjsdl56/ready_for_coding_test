@@ -67,3 +67,5 @@
 2021.03.20 : programmers_2 최댓값과 최솟값
 
 2021.03.21 : programmers_2 올바른 괄호
+
+2021.03.22 : programmers 제일 작은 수 제거하기
