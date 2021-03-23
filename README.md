@@ -69,3 +69,5 @@
 2021.03.21 : programmers_2 올바른 괄호
 
 2021.03.22 : programmers 제일 작은 수 제거하기
+
+2021.03.23 : programmers 이상한 문자 만들기
