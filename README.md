@@ -75,3 +75,5 @@
 2021.03.25 : programmers 정수 내림차순으로 배치하기
 
 2021.03.26 : programmes 자릿수 더하기
+
+2021.03.28 : programmers 짝수와 홀수
