@@ -95,3 +95,5 @@
 2021.04.17 : programmers 최대공약수와 최소공배수_해결(다른사람)
 
 2021.04.21 : programmers 폰켓몬
+
+20201.04.28 : programmers 내적
